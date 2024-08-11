@@ -1,5 +1,7 @@
 import React from 'react'
 
+//herosection
+
 const HeroSection = () => {
   return (
     <section className='herosection'>
