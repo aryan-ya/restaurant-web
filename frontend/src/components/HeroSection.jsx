@@ -1,6 +1,6 @@
 import React from 'react'
 
-//herosection
+//herosection-SECTION
 
 const HeroSection = () => {
   return (
