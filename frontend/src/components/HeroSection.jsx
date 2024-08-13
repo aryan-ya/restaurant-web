@@ -20,8 +20,16 @@ const HeroSection = () => {
                       <h1 className='title dishes_title'>Dishes</h1>
                       <img src="/threelines.svg" alt="three" srcset="" />
                     </div>
+                    <img src="/logo.svg" alt="" srcset="" className='logo' />
                    </div>
                 </div>
+            </div>
+
+            <div className="banner">
+              <div className="imageBox">
+                  <img src="/hero2.png" alt="" srcset="" />
+              </div>
+              <h1 className='title dishes_title'>Dishes</h1>
             </div>
         </div>
     </section>
