@@ -1,10 +1,9 @@
 import React from 'react'
-
-//herosection-SECTION
+import "../App.css"; 
 
 const HeroSection = () => {
   return (
-    <section className='herosection'>
+    <section className='heroSection' id='heroSection'>
         <div className="container">
             <div className="banner">
                 <div className="largeBox">
