@@ -4,6 +4,7 @@ import About from '../components/About'
 import Qualities from '../components/Qualities'
 import Menu from '../components/Menu'
 import Whoarewe from '../components/Whoarewe'
+import Team from '../components/Team'
 const Home = () => {
   return (
     <>
@@ -13,6 +14,7 @@ const Home = () => {
     <Qualities />
     <Menu />
     <Whoarewe />
+    <Team />
     </>
   )
 }
