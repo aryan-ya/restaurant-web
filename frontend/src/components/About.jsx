@@ -17,9 +17,12 @@ const About = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, consectetur veritatis ad natus hic nesciunt tempora ullam repudiandae neque quia, repellat nihil? Cum tempora velit quas cupiditate ea dolorem consectetur libero enim saepe, sapiente, aliquid placeat eligendi in! Illo laborum aut quidem repellat dolor velit ratione eius consectetur possimus aliquid?
           </p>
          <Link to={"/"}>Explore Menu
-         <span></span>
+         <span><HiOutlineArrowNarrowRight /></span>
          </Link>
         </div>
+        <div className="banner">
+            <img src="about.png" alt="about" />
+          </div>
       </div>
     </section>
   )

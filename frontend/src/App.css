@@ -187,7 +187,7 @@ nav svg {
   width: 100%;
 }
 .heroSection .container .banner .title {
-  font-size: 8.5rem;
+  font-size: 4.5rem;
   font-weight: 200;
 }
 .heroSection .container .banner .textAndLogo {
@@ -395,7 +395,8 @@ nav svg {
 }
 @media (max-width: 1520px) {
   .about {
-    padding: 30px 20px;
+    padding: 30px 71px;
+
   }
   .about .container {
     min-width: fit-content;
