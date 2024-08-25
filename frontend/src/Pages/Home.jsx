@@ -10,6 +10,7 @@ const Home = () => {
   return (
     <>
     
+    {/* all components */}
     <HeroSection />
     <About />
     <Qualities />
